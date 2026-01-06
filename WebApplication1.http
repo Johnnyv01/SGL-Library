@@ -1,0 +1,5 @@
+@WebApplication1_HostAddress = https://localhost:5085
+
+GET {{WebApplication1_HostAddress}}/api/Autor/listarAutores
+Accept: application/json
+###
